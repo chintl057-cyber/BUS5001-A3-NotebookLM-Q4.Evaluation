@@ -152,13 +152,6 @@ NotebookLM is therefore suitable for supporting academic research and revision, 
 
 ## 8. Evidence
 
-Supporting screenshots should be stored in the `evidence/` folder:
-
-- `Q4_01_Sources.png` – Three uploaded Australian documents.
-- `Q4_02_T01_QA.png` – Source-based question answering.
-- `Q4_03_T01_Citation.png` – Citation preview.
-- `Q4_04_T02_Comparison.png` – Multi-source comparison.
-- `Q4_05_T03_Study_Guide.png` – Generated study guide.
-- `Q4_06_T03_Exam_Questions.png` – Practice questions and answers.
+Supporting screenshots should be stored in the `evidence/` folder
 
 The screenshots document observed NotebookLM outputs. They do not independently establish that every generated claim is factually correct.
